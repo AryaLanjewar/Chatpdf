@@ -33,8 +33,7 @@ RAG is a method designed to address knowledge-intensive tasks, particularly in i
 To use the PDF Intelligence System:
 
 1. Clone the repository to your local machine.
-   ```bash
-[ https://github.com/AryaLanjewar/Chatpdf](https://github.com/AryaLanjewar/Chatpdf.git)
+   ```bash https://github.com/AryaLanjewar/Chatpdf.git
    ```
 
 2. Install dependencies.
